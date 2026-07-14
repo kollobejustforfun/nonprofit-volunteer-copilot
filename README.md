@@ -1,4 +1,4 @@
-# 🤝 Volunteer Copilot
+# Volunteer Copilot
 
 **Helping nonprofits spend less time managing volunteers and more time creating impact.**
 
