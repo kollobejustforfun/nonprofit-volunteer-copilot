@@ -4,7 +4,7 @@
 
 Volunteer Copilot is a practical AI-powered platform designed specifically for nonprofit organizations. It reduces repetitive administrative work by allowing coordinators to upload event information once, while volunteers can instantly access accurate answers through an intelligent assistant.
 
-**Live Demo:** [Add your Streamlit Cloud URL here after deployment]  
+**Live Demo:** [https://nonprofit-volunteer-copilot-xnhpwqys9z7flu2zkekpd7.streamlit.app/]  
 **Tech Stack:** Streamlit • ChromaDB (RAG) • BAAI/bge-small-zh-v1.5 • Groq (Llama-3.3-70B)  
 **Status:** Fully functional MVP • Ready for portfolio & real nonprofit use  
 **Built for:** Cloud Code Scholarship Fellowship
